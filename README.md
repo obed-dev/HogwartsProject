@@ -11,11 +11,10 @@ Interfaz Interactiva: Navegación intuitiva con una experiencia de usuario amiga
 Compatible con Dispositivos Modernos: Totalmente optimizado para funcionar en cualquier dispositivo.
 
 # 🛠️ Tecnologías Utilizadas
-Frontend: HTML5, CSS3, JavaScript (Framework o librería adicional si aplica).
-Backend: [Especifica el backend utilizado, por ejemplo, Node.js, Django, PHP].
-Base de Datos: [Menciona la base de datos utilizada, por ejemplo, MySQL, Firebase].
-APIs: Integración con [especifica API, si corresponde].
-Herramientas Adicionales: Git, [otras herramientas o bibliotecas utilizadas].
+Interfaz grafica creada con Java FX.
+Desarrollo de la aplicacion con Java 22 en IntelliJ
+Base de Datos: MySQL.
+Herramientas Adicionales O Librerias: Git, Maven , Java FX , mySQL connector.
 
 # 📦 Instalación y Configuración
 Clona este repositorio:
